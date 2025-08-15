@@ -76,6 +76,9 @@ streamlit run main.py
 ## 🔗 Live Demo
 
 **Streamlit Cloud**: [Live-Site](https://real-time-image-color-palette-extractor-apps.streamlit.app)
+
 **Author:** [Ertuğrul Mutlu](https://www.linkedin.com/in/ertugrulmutlu/)
+
 **GitHub:** [https://github.com/Ertugrulmutlu](https://github.com/Ertugrulmutlu)
-**Blog for details:** [https://github.com/Ertugrulmutlu](https://github.com/Ertugrulmutlu)
+
+**for details:** [Blog](https://dev.to/ertugrulmutlu/real-time-image-color-palette-extractor-a-deep-dive-into-k-means-lab-and-de2000-4eoi)
