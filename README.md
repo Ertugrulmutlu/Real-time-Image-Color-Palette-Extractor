@@ -49,9 +49,6 @@ streamlit run main.py
 
    * Streamlit renders a card grid with swatches, text colors, and metadata.
 
-## 🌟 Example Output
-
-![Example Palette](docs/example_palette.png)
 
 ## 📝 Tech Stack
 
@@ -78,13 +75,7 @@ streamlit run main.py
 
 ## 🔗 Live Demo
 
-Once deployed on **Streamlit Cloud**:
-
-```
-https://your-streamlit-demo-link
-```
-
-
+**Streamlit Cloud**: [Live-Site](https://real-time-image-color-palette-extractor-apps.streamlit.app)
 **Author:** [Ertuğrul Mutlu](https://www.linkedin.com/in/ertugrulmutlu/)
 **GitHub:** [https://github.com/Ertugrulmutlu](https://github.com/Ertugrulmutlu)
 **Blog for details:** [https://github.com/Ertugrulmutlu](https://github.com/Ertugrulmutlu)
